@@ -1,0 +1,17 @@
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\bin\Debug\moin.exe.config
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\bin\Debug\moin.exe
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\bin\Debug\moin.pdb
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\moin.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\MainWindow.g.cs
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\App.g.cs
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\moin_MarkupCompile.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\moin_MarkupCompile.lref
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\MainWindow.baml
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\moin.g.resources
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\moin.Properties.Resources.resources
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\moin.csproj.GenerateResource.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\moin.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\moin.exe
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\moin.pdb
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\bin\Debug\WebDriver.dll
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\moin\moin\obj\Debug\moin.csproj.CopyComplete
